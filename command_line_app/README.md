@@ -6,7 +6,7 @@ This folder represents an app which will let you get any kind of weather informa
     <code>git clone https://github.com/wecole/Andelabs-For-Bootcamp-XI/tree/master/command_line_app</code>
 <br>
 2.Navigate to the cloned folder and run the following command:<br>
-  python weather_app.py
+  <code>python weather_app.py</code>
  <br>
 3.It will prompt you to input town/city of which you want to get information.Do that then press "ENTER".
 <br><br>
