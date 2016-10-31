@@ -7,8 +7,8 @@ This is a repository containing work done in the AndeLabs for boot camp XI durin
 1. I have used <code>python 2.7</code> in doing all the tasks.
 2.For each python task I have included its corresponding tests.
 3.To run a given file,use any of the following:<br>
-    i) <code>python filename.py</code>
-	ii) If you have sublime, run <code>ctrl + B</code>
+    i) <code>python filename.py</code><br>
+	ii) <code>If you have sublime, run <code>ctrl + B</code>
 	<br><br>
 	
 <b>DAY ONE Tasks Files</b><br>
