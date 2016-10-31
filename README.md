@@ -30,8 +30,9 @@ This is a repository containing work done in the AndeLabs for boot camp XI durin
   iii.Front-end UI </code>
   
   <br><br>
+  - The TDD folder has files that I used to attain the test-driven development(TDD) outcome.This is what I used to practise TDD.It has 5 tests.
   
-  <b>NOTE: Tests file are descriptive by the real code file name.For example fizzbuzz.py has its tests as fizzbuzz_tests.py.
+  <b>NOTE: Tests file are descriptive by the real code file name.For example fizzbuzz.py has its tests as fizzbuzz_tests.py.</b>
   <br>
   =============================Author : Wecole=========================
  
