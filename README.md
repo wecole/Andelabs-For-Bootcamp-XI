@@ -4,8 +4,8 @@ This is a repository containing work done in the AndeLabs for boot camp XI durin
 - First,clone this repository using the following command : <code>git clone https://github.com/wecole/Andelabs-For-Bootcamp-XI</code><br>
 <b>Description</b>
 <br>
-1. I have used <code>python 2.7</code> in doing all the tasks.
-2.For each python task I have included its corresponding tests.
+1. I have used <code>python 2.7</code> in doing all the tasks.<br>
+2.For each python task I have included its corresponding tests.<br>
 3.To run a given file,use any of the following:<br>
     i) <code>python filename.py</code><br>
 	ii) <code>If you have sublime, run <code>ctrl + B</code>
