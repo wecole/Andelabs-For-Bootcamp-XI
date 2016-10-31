@@ -1,2 +1,37 @@
 # Andelabs-For-Bootcamp-XI
-This is a repository containing work done in the AndeLabs for boot camp XI
+This is a repository containing work done in the AndeLabs for boot camp XI during the home sessions.
+<br>
+- First,clone this repository using the following command : <code>git clone https://github.com/wecole/Andelabs-For-Bootcamp-XI</code>
+<b>Description</b>
+<br>
+1. I have used <code>python 2.7</code> in doing all the tasks.
+2.For each python task I have included its corresponding tests.
+3.To run a given file,use any of the following:
+    i) <code>python filename.py</code>
+	ii) If you have sublime, run <code>ctrl + B</code>
+	<br><br>
+	
+<b>DAY ONE Tasks Files</b><br>
+ <code>i.datatype.py<br>
+ ii.fizzbuzz.py<br>
+ iii.car_class.py <br>
+ iv.OOP_task.py </code>
+ <br><br>
+ 
+ <b>DAY TWO Tasks Files</b><br>
+  <code>i.wordcount.py
+  ii.max_min.py
+  iii.command_line_app </code>
+ <br><br>
+ 
+ <b>DAY THREE Tasks Files</b><br>
+  <code>i.binary_search.py
+  ii.missing_number.py
+  iii.Front-end UI </code>
+  
+  <br><br>
+  
+  <b>NOTE: Tests file are descriptive by the real code file name.For example fizzbuzz.py has its tests as fizzbuzz_tests.py.
+  <br>
+  =============================Author : Wecole=========================
+ 
