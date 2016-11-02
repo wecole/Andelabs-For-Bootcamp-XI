@@ -1,13 +1,13 @@
 class BinarySearch(list):
 
-    def __init__(self, a, b):
-        super(BinarySearch, self).__init__(range(0, (a*b)+1, b)[1:])
+    def __init__(self, a, b): #constructor that initializes class
+        super(BinarySearch, self).__init__(range(0, (a*b)+1, b)[1:]) #implicitly refer to base class
         self.length = a
 
-    def search(self, num):
+    def search(self, num):#method declaration
         try:
-            num = int(num) 
-            output = {}
+            num = int(num) #sanitize num to be of type int
+            output = {} #declare an empty dict
             count, first, last, found = 0, 0, len(self) - 1, False
             if num > self[last] or num < self[first]:
                 return dict([("count", count), ("index", -1)])
@@ -28,6 +28,6 @@ class BinarySearch(list):
                     output['index'] = -1
                 output['count'] = count
                 count += 1
-            return output
+            return output #return dictionary
         except:
             return None
